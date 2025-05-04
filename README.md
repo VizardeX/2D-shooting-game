@@ -1,4 +1,4 @@
-# 2D Shooting Game
+# Top Down 2D Shooting Game
 
 ## Overview
 This is a console-based 2D shooting game developed in C++ Players can choose from unique heroes to fight off various types of monsters using different weapons and items. The game emphasizes strategy and positioning, offering a fun challenge with each round.
